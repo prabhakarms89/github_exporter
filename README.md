@@ -1,4 +1,4 @@
-# GitHub Exporter
+# GitHub Exporter ....
 
 [![Build Status](http://github.dronehippie.de/api/badges/webhippie/github_exporter/status.svg)](http://github.dronehippie.de/webhippie/github_exporter)
 [![Go Doc](https://godoc.org/github.com/webhippie/github_exporter?status.svg)](http://godoc.org/github.com/webhippie/github_exporter)
